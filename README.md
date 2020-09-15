@@ -1,0 +1,2 @@
+# mysvc
+mysvc init
